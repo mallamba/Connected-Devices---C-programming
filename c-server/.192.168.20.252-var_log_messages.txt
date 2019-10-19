@@ -1,0 +1,314 @@
+
+----- System log -----
+
+2019-10-01T19:38:11.035+01:00 axis-00408cf5b0f1 [ WARNING ] mergeresolv.sh[694]: nothing to merge falling back to backup plan!
+2019-10-01T19:38:15.826+01:00 axis-00408cf5b0f1 [ WARNING ] ipchanged[813]: respawnd not running.
+2019-10-01T19:38:18.715+01:00 axis-00408cf5b0f1 [ WARNING ] mergeresolv.sh[1189]: nothing to merge falling back to backup plan!
+2019-10-01T19:38:24.207+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: disk.c : Disk disruption detection status changed for SD_DISK. Status = 'disruption'
+2019-10-01T19:38:24.232+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-01T19:38:24.378+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: disk.c : Disk disruption detection status changed for NetworkShare. Status = 'disruption'
+2019-10-01T19:38:26.467+01:00 axis-00408cf5b0f1 [ WARNING ] blinkenlights[1170]: CancelState - Failed to cancel state.
+2019-10-01T19:38:39.936+01:00 axis-00408cf5b0f1 [ WARNING ] scheduled: Timezone was manipulated!
+2019-10-01T20:38:24.607+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-01T21:38:24.603+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-01T22:38:24.611+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-01T23:38:24.603+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T00:38:24.603+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T01:38:24.604+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T02:38:24.603+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T03:38:24.606+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T04:38:24.603+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T05:38:24.603+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T06:38:24.603+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T07:38:24.604+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T08:38:24.604+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T09:06:53.628+01:00 axis-00408cf5b0f1 [ WARNING ] server[3980]: Could not get VideoType from com.axis.VideoControl: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+2019-10-02T09:07:57.838+01:00 axis-00408cf5b0f1 [ WARNING ] server[3980]: Could not get VideoType from com.axis.VideoControl: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+2019-10-02T09:15:20.924+01:00 axis-00408cf5b0f1 [ WARNING ] server[3980]: Could not get VideoType from com.axis.VideoControl: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+2019-10-02T09:30:40.859+01:00 axis-00408cf5b0f1 [ WARNING ] server[5791]: Could not get VideoType from com.axis.VideoControl: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+2019-10-02T09:31:52.942+01:00 axis-00408cf5b0f1 [ WARNING ] server[5791]: Could not get VideoType from com.axis.VideoControl: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
+2019-10-02T09:38:24.606+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T10:38:24.607+01:00 axis-00408cf5b0f1 [ WARNING ] disks[1322]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-10-02T11:07:36.776+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:36.843+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:36.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:36.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 79459
+2019-10-02T11:07:36.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:37.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:37.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:37.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 36173
+2019-10-02T11:07:37.768+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:37.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:37.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:37.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 79423
+2019-10-02T11:07:37.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:38.764+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:38.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 36112
+2019-10-02T11:07:38.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:38.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:38.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:38.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:38.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 67303
+2019-10-02T11:07:38.849+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:39.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:39.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:39.764+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37891
+2019-10-02T11:07:39.768+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:39.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:39.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:39.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 87296
+2019-10-02T11:07:39.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:40.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:40.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:40.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 38239
+2019-10-02T11:07:40.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:40.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:40.843+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:40.843+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86573
+2019-10-02T11:07:40.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:41.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:41.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:41.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37725
+2019-10-02T11:07:41.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:41.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:41.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:41.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86234
+2019-10-02T11:07:41.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:42.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:42.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:42.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37681
+2019-10-02T11:07:42.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:42.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:42.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:42.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86126
+2019-10-02T11:07:42.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:43.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:43.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:43.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37729
+2019-10-02T11:07:43.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:43.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:43.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:43.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86174
+2019-10-02T11:07:43.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:44.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:44.764+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:44.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37796
+2019-10-02T11:07:44.772+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:44.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:44.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86213
+2019-10-02T11:07:44.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:44.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:45.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:45.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:45.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37673
+2019-10-02T11:07:45.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:45.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:45.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:45.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86169
+2019-10-02T11:07:45.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:46.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:46.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:46.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37782
+2019-10-02T11:07:46.770+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:46.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:46.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86414
+2019-10-02T11:07:46.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:46.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:47.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:47.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:47.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37805
+2019-10-02T11:07:47.772+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:47.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:47.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:47.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86450
+2019-10-02T11:07:47.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:48.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:48.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:48.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37729
+2019-10-02T11:07:48.770+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:48.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:48.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:48.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86332
+2019-10-02T11:07:48.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:49.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:49.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:49.769+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37855
+2019-10-02T11:07:49.777+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:49.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:49.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86509
+2019-10-02T11:07:49.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:49.861+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:50.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:50.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:50.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37850
+2019-10-02T11:07:50.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:50.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:50.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:50.845+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86534
+2019-10-02T11:07:50.853+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:51.761+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:51.761+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:51.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37844
+2019-10-02T11:07:51.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:51.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:51.843+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:51.846+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86589
+2019-10-02T11:07:51.854+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:52.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:52.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:52.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37759
+2019-10-02T11:07:52.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:52.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:52.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:52.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86553
+2019-10-02T11:07:52.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:53.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:53.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:53.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37804
+2019-10-02T11:07:53.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:53.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:53.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:53.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86670
+2019-10-02T11:07:53.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:54.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:54.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:54.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37899
+2019-10-02T11:07:54.770+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:54.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:54.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86566
+2019-10-02T11:07:54.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:54.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:55.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:55.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:55.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37843
+2019-10-02T11:07:55.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:55.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:55.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:55.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86504
+2019-10-02T11:07:55.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:56.761+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:56.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:56.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37831
+2019-10-02T11:07:56.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:56.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:56.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:56.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86605
+2019-10-02T11:07:56.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:57.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:57.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:57.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37854
+2019-10-02T11:07:57.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:57.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:57.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:57.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86462
+2019-10-02T11:07:57.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:58.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:58.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:58.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37755
+2019-10-02T11:07:58.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:58.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:58.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:58.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86434
+2019-10-02T11:07:58.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:59.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:59.764+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:59.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37829
+2019-10-02T11:07:59.772+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:07:59.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:07:59.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:07:59.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86639
+2019-10-02T11:07:59.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:00.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:00.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:00.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37905
+2019-10-02T11:08:00.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:00.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:00.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:00.843+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86485
+2019-10-02T11:08:00.853+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:01.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:01.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:01.764+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 38050
+2019-10-02T11:08:01.771+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:01.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:01.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:01.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86734
+2019-10-02T11:08:01.858+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:02.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:02.763+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:02.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37951
+2019-10-02T11:08:02.770+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:02.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:02.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:02.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86520
+2019-10-02T11:08:02.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:03.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:03.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:03.764+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37963
+2019-10-02T11:08:03.769+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:03.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:03.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:03.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86620
+2019-10-02T11:08:03.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:04.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:04.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:04.765+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 38021
+2019-10-02T11:08:04.769+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:04.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:04.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86824
+2019-10-02T11:08:04.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:04.849+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:05.761+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:05.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37897
+2019-10-02T11:08:05.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:05.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:05.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:05.845+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:05.845+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86789
+2019-10-02T11:08:05.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:06.759+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:06.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:06.764+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 38042
+2019-10-02T11:08:06.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:06.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:06.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:06.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86765
+2019-10-02T11:08:06.850+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:07.759+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:07.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37988
+2019-10-02T11:08:07.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:07.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:07.840+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:07.842+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:07.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86772
+2019-10-02T11:08:07.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:08.760+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:08.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 37943
+2019-10-02T11:08:08.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:08.766+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:08.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:08.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:08.844+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86670
+2019-10-02T11:08:08.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:09.759+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:09.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 38081
+2019-10-02T11:08:09.762+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:09.767+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:09.839+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:09.841+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:09.843+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86817
+2019-10-02T11:08:09.851+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:10.770+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:10.773+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 38001
+2019-10-02T11:08:10.773+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:10.778+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:10.847+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Storlek på storlek-stringen
+2019-10-02T11:08:10.848+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 6
+2019-10-02T11:08:10.852+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: 86826
+2019-10-02T11:08:10.859+01:00 axis-00408cf5b0f1 [ INFO    ] server[5791]: Client is disconnected
+2019-10-02T11:08:11.111+01:00 axis-00408cf5b0f1 [ INFO    ] server[0]: stopping server
+2019-10-02T11:08:12.111+01:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[865]: [system] Reloaded configuration
+2019-10-02T11:08:12.482+01:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[865]: [system] Reloaded configuration
+2019-10-02T11:08:25.203+01:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/server_1_0_mipsisa32r2el.eap' size:42996
+2019-10-02T11:08:26.730+01:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/server_1_0_mipsisa32r2el.eap installation OK
+2019-10-02T11:08:26.741+01:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[865]: [system] Reloaded configuration

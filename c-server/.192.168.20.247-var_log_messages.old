@@ -1,0 +1,358 @@
+
+----- System log -----
+
+2019-09-11T14:02:27.719+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-11T14:09:06.558+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-11T14:12:54.217+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-11T14:27:23.718+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-12T13:12:51.166+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:13:01.594+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:13:01.594+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:13:12.018+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:13:12.019+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:13:37.342+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:13:37.344+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:16:38.375+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:16:38.376+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:16:54.007+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:16:54.007+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:19:44.758+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:19:44.758+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:19:54.728+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:19:54.761+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:23:03.797+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:24:23.877+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:24:23.878+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:25:24.920+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:25:24.922+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:25:34.326+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:25:34.327+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:26:07.278+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:26:07.278+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:26:38.008+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:27:01.308+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-12T13:27:01.308+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Images" action: failed to transfer data: Couldn't connect to server
+2019-09-12T13:27:51.353+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-13T12:23:01.966+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-13T12:23:01.971+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-13T12:23:13.933+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-13T12:23:13.934+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-13T12:23:25.935+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-13T12:23:25.937+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-13T12:23:38.062+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-13T12:23:38.067+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-13T12:23:49.932+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-13T12:23:49.941+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-13T12:24:01.931+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-16T12:23:02.056+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-16T12:23:02.063+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-16T12:23:13.897+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-16T12:23:13.898+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-16T12:23:25.922+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-16T12:23:25.931+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-16T12:23:37.920+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-16T12:23:37.927+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-16T12:23:49.920+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-16T12:23:49.925+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-16T12:24:01.923+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-17T12:23:20.001+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-17T12:23:20.007+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-17T12:23:34.965+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-17T12:23:34.966+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-17T12:23:49.928+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-17T12:23:49.929+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-17T12:24:04.900+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-18T12:23:01.996+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-18T12:23:02.003+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-18T12:23:13.932+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-18T12:23:13.938+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-18T12:23:25.929+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-18T12:23:25.935+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-18T12:23:37.933+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-18T12:23:37.940+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-18T12:23:49.931+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-18T12:23:49.932+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-18T12:24:01.962+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-18T14:27:35.654+00:00 axis-00408ce8dd13 [ EMERG   ] server[18579]: 1280x960,1280x720,1024x768,1024x640,800x600,800x500,800x450,640x480,640x400,640x360,480x360,480x300,480x270,320x240,320x200,320x180,240x180,176x144,160x120,160x100,160x90
+2019-09-19T12:23:01.989+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-19T12:23:01.990+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-19T12:23:13.922+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-19T12:23:13.929+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-19T12:23:25.896+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-19T12:23:25.905+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-19T12:23:37.922+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-19T12:23:37.930+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-19T12:23:49.921+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-19T12:23:49.928+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: Action failed, retry will be done in 10 seconds
+2019-09-19T12:24:01.923+00:00 axis-00408ce8dd13 [ WARNING ] actionengined[1053]: An error occurred in "Send Video Clip" action: failed to transfer data: Couldn't connect to server
+2019-09-19T12:57:38.958+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T12:59:09.856+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:25:38.360+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:27:55.937+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:30:33.078+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:36:59.799+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:39:18.208+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:41:00.159+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:42:54.252+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:44:31.513+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:46:00.292+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:49:50.707+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:52:16.697+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T15:54:08.027+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T16:05:46.766+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T16:10:56.441+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T16:17:17.236+00:00 axis-00408ce8dd13 [ INFO    ] kernel: potentially unexpected fatal signal 11.
+2019-09-19T16:29:45.776+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:45.784+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:46.398+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:46.399+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:46.406+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:46.406+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:46.416+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:46.416+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:47.771+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:47.784+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:47.784+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:47.787+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:47.787+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:48.415+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:48.415+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:48.415+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:48.422+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:48.429+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:48.430+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:49.793+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:49.793+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:49.794+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:49.807+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:49.811+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:50.433+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:50.435+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:50.441+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:50.451+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:50.451+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:50.453+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:51.818+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:51.819+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:51.819+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:51.828+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:51.829+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:52.458+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:52.459+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:52.459+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:52.466+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:52.467+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:52.467+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:53.834+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:53.834+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:53.835+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:53.847+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:53.848+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:53.848+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:54.469+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:54.471+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:54.472+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:54.485+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:54.486+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:54.486+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:55.853+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:55.853+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:55.854+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:55.858+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:55.859+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:55.861+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:56.486+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:56.490+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:56.490+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:56.495+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:56.496+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:56.498+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:57.866+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:57.867+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:57.867+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:57.874+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:57.880+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:57.882+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:58.500+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:58.501+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:58.501+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:58.508+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:58.513+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:58.514+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:29:59.886+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:29:59.886+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:29:59.887+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:29:59.892+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:29:59.894+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:29:59.895+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:00.513+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:00.517+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:00.517+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:00.524+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:00.526+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:00.528+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:01.896+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:01.904+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:01.904+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:01.905+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:01.905+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:01.907+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:02.532+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:02.533+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:02.533+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:02.546+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:02.547+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:02.547+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:03.909+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:03.917+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:03.917+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:03.918+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:03.924+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:03.924+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:04.553+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:04.553+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:04.553+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:04.556+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:04.562+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:04.562+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:05.928+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:05.928+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:05.929+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:05.936+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:05.936+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:05.937+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:06.570+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:06.570+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:06.571+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:06.582+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:06.583+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:06.583+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:07.941+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:07.941+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:07.942+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:07.944+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:07.948+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:07.951+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:08.586+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:08.587+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:08.588+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:08.598+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:08.599+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:08.599+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:09.961+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:09.962+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:09.962+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:09.964+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:09.969+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:09.974+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:10.605+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:10.618+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:10.619+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:10.619+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:10.620+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:10.623+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:11.984+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:11.984+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:11.985+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:11.991+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:11.992+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:11.992+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:12.629+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:12.633+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:12.637+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:12.646+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:12.647+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:12.648+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:13.996+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:13.997+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:13.997+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:14.006+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:14.013+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:14.013+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:14.650+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:14.654+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:14.654+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:14.659+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:14.660+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:14.661+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:16.007+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:16.008+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:16.009+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:16.018+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:16.019+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:16.020+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:16.667+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:16.667+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:16.667+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:16.677+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:16.678+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:16.678+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:18.026+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:18.039+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:18.039+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:18.039+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:18.040+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:18.040+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:18.682+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:18.682+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:18.683+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:18.687+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:18.691+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:18.694+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:20.038+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:20.039+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:20.039+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:20.047+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:20.048+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:20.061+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:20.703+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:20.704+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:20.705+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:20.713+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:20.714+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:20.714+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:22.064+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:22.065+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:22.065+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:22.077+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:22.078+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:22.078+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:22.717+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:22.717+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:22.717+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:22.724+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:22.724+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:22.725+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:24.082+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:24.082+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:24.082+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:24.087+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:24.087+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:24.088+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:24.734+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:24.735+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:24.735+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:24.736+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:24.737+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:24.737+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:26.093+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:26.095+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:26.096+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:26.102+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:26.104+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:26.112+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:26.741+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:26.747+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:26.748+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:26.753+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:26.754+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:26.755+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:28.119+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after frame data
+2019-09-19T16:30:28.124+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after img_size......
+2019-09-19T16:30:28.134+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after sprintf
+2019-09-19T16:30:28.152+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: Client is disconnected
+2019-09-19T16:30:28.166+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: after  all errors
+2019-09-19T16:30:28.176+00:00 axis-00408ce8dd13 [ INFO    ] server[11998]: sleep
+2019-09-19T16:30:28.567+00:00 axis-00408ce8dd13 [ INFO    ] control.cgi: calling: /etc/init.d/sdkserver stop
+2019-09-19T16:30:28.622+00:00 axis-00408ce8dd13 [ INFO    ] server[0]: stopping server
+2019-09-19T16:30:29.760+00:00 axis-00408ce8dd13 [ NOTICE  ] dbus[567]: [system] Reloaded configuration
