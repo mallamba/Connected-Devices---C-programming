@@ -73,11 +73,11 @@ int start_up_server(void)
 		//so the main thread can entertain next request
 		if( pthread_create(&tid[i], NULL, socketThread, &newSocket) != 0 )
 			syslog(LOG_INFO, "Failed to create thread \n");
-        else
-            i++;
+        
+            	i++;
 
 		if( i > 50)
-            isMore = false;
+            		isMore = false;
 	}
 	return 0;
 }
