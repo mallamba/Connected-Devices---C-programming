@@ -251,15 +251,15 @@ void * socketThread(void *arg)
 //function to encrypt and decrypt with an XOR-key
 char *encrypt_char(char *message, char *key, int img_size){
 
-   	int key_length = strlen(key);
-   	char* encrypt_msg = malloc(img_size+1);
-   	int i;
-   	//the 48 is used for the ASCI-table values	
-   	for ( i = 0; i< img_size; i++){
-       		encrypt_msg[i] = message[i] ^( key[i%key_length]-48); 
-   	}
-   	encrypt_msg[img_size]='\0';
-   	return encrypt_msg;
+   int key_length = strlen(key);
+   char* encrypt_msg = malloc(img_size+1);
+   int i;
+   //the 48 is used for the ASCI-table values	
+   for ( i = 0; i< img_size; i++){
+       encrypt_msg[i] = message[i] ^( key[i%key_length]-48); 
+   }
+   encrypt_msg[img_size]='\0';
+   return encrypt_msg;
 }
 
 

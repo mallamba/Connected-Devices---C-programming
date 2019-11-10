@@ -1,11 +1,10 @@
 package client;
 
-
+import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.net.Socket;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
-
 
 import ui.View;
 
@@ -21,27 +20,24 @@ public class Controller {
 		view.display();
 	}
 
-	private Socket createSocket(String ip, String port) {
-		Socket tempSocket = null;
-		try {
-			tempSocket = new Socket(ip, Integer.valueOf(port));
-		} catch (IOException e) {
-			System.out.println("Unable to connect to " + ip + " at port "
-					+ String.valueOf(port) + "\n");
-		}
-		return tempSocket;
-	}
-
 	public void onDisconnect() {
 		view.onDisconnect();
 	}
 
 	public void connect(String ip, String port) {
-		socket = createSocket(ip, port);
+		socket = getSocket(ip, port);
 		if (socket != null) {
 			client = new Client(this, socket);
 			executor.submit(client);
 			view.onConnect();
+		}
+	}
+	
+	public void sendXorEncryptedResolution(String resolution) {
+		if (resolution != null && !resolution.isEmpty()) {
+			client.sendXorEncryptedResolution(resolution);
+		} else {
+			System.out.println("Type a message to send to the server");
 		}
 	}
 
@@ -52,27 +48,33 @@ public class Controller {
 		} else {
 			System.out.println("Type a message to send to the server");
 		}
-
 	}
 
 	public void onWindowExit() {
 		try {
 			client.disconnect();
 		} catch (NullPointerException ex) {
-			System.out
-					.println("Client was null. No disconnet was needed! (controller -> closing()");
+			ex.printStackTrace();
 		}
 		executor.shutdown();
 	}
 
-	public void receivedMessage(String message) {
-		//view.onMessageReceived(message);
+	public void updateImage(BufferedImage image) {
+		System.out.println("updateImage() --> received image");
 	}
-
-
 
 	public void setResolutions(List<String> resolutions) {
 		view.setResolutions(resolutions);
+	}
+
+	public Socket getSocket(String ip, String port) {
+		Socket tempSocket = null;
+		try {
+			tempSocket = new Socket(ip, Integer.valueOf(port));
+		} catch (IOException e) {
+			System.out.println("Unable to connect to " + ip + " at port " + port + "\n");
+		}
+		return tempSocket;
 	}
 
 }
